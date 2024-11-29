@@ -1,8 +1,17 @@
-# Lama Dev Animated 3D Portfolio Website Project
+# 3D Portfolio Website Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
 
-to run the app execute following commands in the terminal 
+First, run the development server:
 
-npm install <br/>
+```bash
 npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
